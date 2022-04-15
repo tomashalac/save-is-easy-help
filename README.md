@@ -1,2 +1,4 @@
 # Save Is Easy Help
-Save Is Easy technical support
+
+Documentation: https://zedgestudio.com/
+
